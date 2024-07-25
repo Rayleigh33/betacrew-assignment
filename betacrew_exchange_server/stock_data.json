@@ -1,0 +1,58 @@
+[
+  {
+    "symbol": "AAPL",
+    "buysellindicator": "B",
+    "quantity": 50,
+    "price": 100,
+    "packetSequence": 1
+  },
+  {
+    "symbol": "e",
+    "buysellindicator": "\u0000",
+    "quantity": 213313,
+    "price": 1347179264,
+    "packetSequence": 2560
+  },
+  {
+    "symbol": "\t",
+    "buysellindicator": "A",
+    "quantity": 1297763906,
+    "price": 10,
+    "packetSequence": 3000
+  },
+  {
+    "symbol": "MZNB",
+    "buysellindicator": "\u0000",
+    "quantity": 1280,
+    "price": 767744,
+    "packetSequence": 3137
+  },
+  {
+    "symbol": "\u0004ME",
+    "buysellindicator": "T",
+    "quantity": 1094844416,
+    "price": 2621440,
+    "packetSequence": 3276800
+  },
+  {
+    "symbol": "AS",
+    "buysellindicator": "\u0000",
+    "quantity": 503316480,
+    "price": 922746880,
+    "packetSequence": 105730886
+  },
+  {
+    "symbol": "\u001e",
+    "buysellindicator": "\u0000",
+    "quantity": 25088,
+    "price": 577,
+    "packetSequence": 1095781459
+  },
+  {
+    "symbol": "\u0019",
+    "buysellindicator": "\u0016",
+    "quantity": 8,
+    "price": 1297303124,
+    "packetSequence": 1392508928
+  }
+]
